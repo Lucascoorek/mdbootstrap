@@ -10,7 +10,7 @@
     "react-dom": "^16.7.0",
     "react-scripts": "2.0.5"
   },
-  "homepage": "https://lucascoorek.github.io/mdbootstrap",
+  "homepage": "https://Lucascoorek.github.io/mdbootstrap",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
